@@ -1,0 +1,109 @@
+{
+  "recents": [
+    {
+      "id": 1,
+      "title": "MaviGri Concert",
+      "date": "Aug 19, 22:40",
+      "image": "../assets/Rectangle 24.png",
+      "imageAlt": "MaviGri Concert"
+    },
+    {
+      "id": 2,
+      "title": "GamesCom 2024 in Turkiye",
+      "date": "Aug 12, 21:41",
+      "image": "../assets/image 10.png",
+      "imageAlt": "GamesCom 2024 in Turkiye"
+    },
+    {
+      "id": 3,
+      "title": "Lords of the Sound Concert",
+      "date": "Jun 20, 21:32",
+      "image": "../assets/image 8.png",
+      "imageAlt": "Lords of the Sound Concert"
+    },
+    {
+      "id": 4,
+      "title": "Every Week Free Games from Epic Games",
+      "date": "Jun 8, 21:43",
+      "image": "../assets/Ekran Resmi 2023-12-25 12.52 1.png",
+      "imageAlt": "Every Week Free Games from Epic Games"
+    },
+    {
+      "id": 5,
+      "title": "How to make bream in less than an hour",
+      "date": "Apr 21, 21:44",
+      "image": "../assets/PHOTO-2023-12-25-03-02-04 1.png",
+      "imageAlt": "How to make bream in less than an hour"
+    },
+    {
+      "id": 6,
+      "title": "Sportive people secret recipe: Chicken Pilaf",
+      "date": "Mar 1, 22:19",
+      "image": "../assets/Ekran Resmi 2023-12-25 15.30 1.png",
+      "imageAlt": "Sportive people secret recipe: Chicken Pilaf"
+    },
+    {
+      "id": 7,
+      "title": "Baked French Fries",
+      "date": "Feb 11, 21:11",
+      "image": "../assets/Ekran Resmi 2023-12-25 15.38 1.png",
+      "imageAlt": "Baked French Fries"
+    },
+    {
+      "id": 8,
+      "title": "I washed my coat in the washing machine with the wrong program...",
+      "date": "Nov 29, 21:27",
+      "image": "../assets/image 11.png",
+      "imageAlt": "I washed my coat in the washing machine with the wrong program..."
+    },
+    {
+      "id": 9,
+      "title": "There is a tea stain on the clothes. How do I remove tea stains?",
+      "date": "Nov 21, 21:23",
+      "image": "../assets/image 18.png",
+      "imageAlt": "There is a tea stain on the clothes. How do I remove tea stains?"
+    },
+    {
+      "id": 10,
+      "title": "What should you pay attention to when cleaning with a vacuum cleaner?",
+      "date": "Nov 21, 21:23",
+      "image": "../assets/image 14.png",
+      "imageAlt": "What should you pay attention to when cleaning with a vacuum cleaner?"
+    },
+    {
+      "id": 11,
+      "title": "GitHub Student Developer Pack",
+      "date": "Nov 21, 21:23",
+      "image": "../assets/Ekran Resmi 2023-12-25 12.50 1.png",
+      "imageAlt": "GitHub Student Developer Pack"
+    },
+    {
+      "id": 12,
+      "title": "Tax-Free Phone/Tablet/Notbook for Students",
+      "date": "Nov 21, 21:23",
+      "image": "../assets/Ekran Resmi 2023-12-25 12.56 1.png",
+      "imageAlt": "Tax-Free Phone/Tablet/Notbook for Students"
+    },
+    {
+      "id": 13,
+      "title": "Global Trade on Students",
+      "date": "Nov 21, 21:23",
+      "image": "../assets/Ekran Resmi 2023-12-25 14.22 1.png",
+      "imageAlt": "Global Trade on Students"
+    },
+    {
+      "id": 14,
+      "title": "Crypto Investing for Students",
+      "date": "Nov 21, 21:23",
+      "image": "../assets/Ekran Resmi 2023-12-25 14.23 1.png",
+      "imageAlt": "Crypto Investing for Students"
+    },
+    {
+      "id": 15,
+      "title": "Credit Bank Cards",
+      "date": "Nov 21, 21:23",
+      "image": "../assets/Ekran Resmi 2023-12-25 14.25 1.png",
+      "imageAlt": "Credit Bank Cards"
+    }
+  ]
+}
